@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h1{
+font-family: 'Lobster', cursive;
+    font-size:40px;
+}
+.line{
+    height:7px;
+    width:70px;
+    background-color:black;
+    margin: 8px auto;
+}
+#apps{
+    background: linear-gradient(#FFF176 0%, #81C784 100%);
+    width:100%;
+}
+#games{
+    background: linear-gradient(#FFF176 0%, #81C784 100%);
+    width:100%;
+}
+img{
+    transition:transform .2s;
+    height: 250px;
+}
+img:hover{
+    transform:scale(.9);
+}
+#chatbots{
+    background: linear-gradient(#FFF176 0%, #81C784 100%);
+    width:100%;
+}
